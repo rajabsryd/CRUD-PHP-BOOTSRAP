@@ -18,7 +18,7 @@ Proyek ini merupakan implementasi dari sistem CRUD (Create, Read, Update, Delete
 ## Cara Instalasi
 1. **Kloning Repository**
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/rajabsryd/CRUD-PHP-BOOTSTRAP.git
    ```
 2. **Konfigurasi Database**
    - Buat database baru di MySQL.
